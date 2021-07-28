@@ -1,0 +1,45 @@
+[2021-07-21T17:29:02.122675+00:00] slim-app.INFO: Users list was viewed. [] {"uid":"a778879"}
+[2021-07-21T17:31:28.594024+00:00] slim-app.INFO: Users list was viewed. [] {"uid":"b2da2d8"}
+[2021-07-21T17:34:51.137287+00:00] slim-app.INFO: Users list was viewed. [] {"uid":"26a863d"}
+[2021-07-21T17:34:54.710544+00:00] slim-app.INFO: User of id `1` was viewed. [] {"uid":"a2c86b3"}
+[2021-07-21T17:35:00.299477+00:00] slim-app.INFO: Users list was viewed. [] {"uid":"9603489"}
+[2021-07-23T02:04:45.680235+00:00] call_home.INFO: User of id `1` is active. [] {"uid":"d1ac70a"}
+[2021-07-23T02:10:45.432082+00:00] call_home.INFO: User of id `1` is active. [] {"uid":"e6797fe"}
+[2021-07-23T02:10:48.359143+00:00] call_home.INFO: User of id `2` is not active. [] {"uid":"529b821"}
+[2021-07-23T02:12:29.489468+00:00] call_home.INFO: User of id `2` not exist. [] {"uid":"20f4322"}
+[2021-07-23T02:12:46.796658+00:00] call_home.INFO: User of id `2` is not active. [] {"uid":"d6ce877"}
+[2021-07-23T02:13:03.531055+00:00] call_home.INFO: User of id `2` does not exist. [] {"uid":"273149b"}
+[2021-07-23T02:13:06.175676+00:00] call_home.INFO: User of id `1` is active. [] {"uid":"53f38a1"}
+[2021-07-23T02:13:34.964111+00:00] call_home.INFO: User of id `2` not exist. [] {"uid":"d598f75"}
+[2021-07-23T02:13:38.736371+00:00] call_home.INFO: User of id `2` not exist. [] {"uid":"cb7f84d"}
+[2021-07-23T02:15:31.607944+00:00] call_home.INFO: User of id `2` not exist. [] {"uid":"012957b"}
+[2021-07-23T02:15:58.920789+00:00] call_home.INFO: User of id `1` is active. [] {"uid":"49f3aaa"}
+[2021-07-23T02:17:27.701712+00:00] call_home.INFO: User of id `1` is active. [] {"uid":"cb0db45"}
+[2021-07-23T02:17:30.252496+00:00] call_home.INFO: User of id `2` is not active. [] {"uid":"7afed6e"}
+[2021-07-23T02:17:33.509858+00:00] call_home.INFO: User of id `3` does not exist. [] {"uid":"c72e9a5"}
+[2021-07-23T06:06:08.851708+00:00] call_home.INFO: User of id `0` does not exist. [] {"uid":"453f1e4"}
+[2021-07-23T06:08:26.467538+00:00] call_home.INFO: User of id `0` does not exist. [] {"uid":"bc32aa3"}
+[2021-07-23T06:08:44.015924+00:00] call_home.INFO: User of id `0` does not exist. [] {"uid":"629a563"}
+[2021-07-23T06:09:33.437680+00:00] call_home.INFO: User of id `0` does not exist. [] {"uid":"d0def0c"}
+[2021-07-23T06:15:39.397427+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"c070ea6"}
+[2021-07-23T06:16:24.375444+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"cd3911e"}
+[2021-07-23T06:16:48.151582+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"09ad705"}
+[2021-07-23T06:17:11.651744+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"1e11991"}
+[2021-07-23T06:17:24.148477+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"2b5455a"}
+[2021-07-23T06:17:35.495510+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"4aef364"}
+[2021-07-23T06:18:33.993779+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"6db963e"}
+[2021-07-23T06:19:06.788060+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"69aec94"}
+[2021-07-23T06:19:51.129014+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"f387ea3"}
+[2021-07-23T06:20:12.722308+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"940861b"}
+[2021-07-23T06:20:57.744296+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"deaf1b2"}
+[2021-07-23T06:21:09.867507+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"195300f"}
+[2021-07-23T06:22:20.291526+00:00] call_home.INFO: User of id `asdadasdasda"` does not exist. [] {"uid":"05aa709"}
+[2021-07-23T06:23:09.971271+00:00] call_home.INFO: User of id `asdadasdasda` does not exist. [] {"uid":"5234ee4"}
+[2021-07-23T06:23:50.618875+00:00] call_home.INFO: User of id `asdadasdasda` does not exist. [] {"uid":"d922bb7"}
+[2021-07-23T06:24:09.627405+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"95f9b64"}
+[2021-07-23T06:24:25.583887+00:00] call_home.INFO: User of id `1111111` does not exist. [] {"uid":"bd6a161"}
+[2021-07-23T06:24:53.079893+00:00] call_home.INFO: User of id `1111111` does not exist. [] {"uid":"6cd0c5f"}
+[2021-07-23T06:25:17.369014+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is not active. [] {"uid":"1b9684c"}
+[2021-07-23T06:25:46.287215+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is not active. [] {"uid":"aa89def"}
+[2021-07-23T06:26:27.780247+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"6c855d0"}
+[2021-07-26T17:53:10.522873+00:00] call_home.INFO: User of id `DQKqAix0QpCHVt0en9KBfWaLk1lhD2Z4nYAS0B1e` is active. [] {"uid":"a308828"}
